@@ -8,9 +8,9 @@ Girlscript Summer of Code is a 3-month long Open Source program conducted by Gir
 
 ## Other Programs
 
-- Explore options on 📺 [Girlscript Website](https://girlscript.tech/).
+- Explore options on 📺 [Girlscript Website](https://gssoc.girlscript.tech/).
 - Attend GSSoC24 events, share projects, and collaborate.
-- Connect with experts on [Girlscript LinkedIn](https://www.linkedin.com/company/girlscript/).
+- Connect with experts on [Girlscript LinkedIn](https://www.linkedin.com/company/girlscript-foundation/?originalSubdomain=in).
 
 ## More Info
 
